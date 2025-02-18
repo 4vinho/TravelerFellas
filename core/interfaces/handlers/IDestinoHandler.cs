@@ -2,5 +2,5 @@
 
 public interface IDestinoHandler : IGenericRepositoryHandler<DestinoDTO>
 {
-    public Task<PagedResponse<DestinoDTO>> GetDestinoAll(PagedRequest pagedResponse);
+    public Task<PagedResponse<DestinoDTO>> GetDestinoTodosAsync(PagedRequest pagedResponse);
 }
