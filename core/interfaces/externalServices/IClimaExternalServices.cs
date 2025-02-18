@@ -2,5 +2,5 @@
 
 public interface IClimaExternalServices
 {
-    public Task<Response<ClimaDTO>> GetClimaPorCidadeAsync(string nomeCidade, Request request);
+    public Task<Response<ClimaDTO>> CreateClimaPorCidadeAsync(string nomeCidade, Request request);
 }

@@ -2,7 +2,7 @@
 
 public interface IEventoLocalExternalServices
 {
-    public Task<Response<EventoLocalDTO>> GetEventoLocalPorCidadeAsync(
+    public Task<Response<EventoLocalDTO>> CreateEventoLocalPorCidadeAsync(
         string nomeCidade,
         Request request
     );

@@ -2,7 +2,7 @@
 
 public interface IPontoTuristicoExternalServices
 {
-    public Task<Response<PontoTuristicoDTO>> GetPontoTuristicoPorCidade(
+    public Task<Response<PontoTuristicoDTO>> CreatePontoTuristicoPorCidade(
         string nomeCidade,
         Request request
     );

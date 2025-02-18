@@ -2,7 +2,7 @@
 
 public interface ICambioExternalServices
 {
-    public Task<Response<CambioDTO>> GetCambioAsync(
+    public Task<Response<CambioDTO>> CreateCambioAsync(
         string deMoeda,
         string paraMoeda,
         Request request
