@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "sKMTDBI9y3UoGYYi/46gfTFLZLz5hUyGmjOc/M1htGI=",
+  "Hash": "y03NNp3wLDOYIIAm7ZJUbeFpbRLn7RvGKfKaJtXqcs0=",
   "Source": "TravelerFellas",
   "BasePath": "_content/TravelerFellas",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

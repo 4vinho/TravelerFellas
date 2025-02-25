@@ -1,3 +1,10 @@
-﻿namespace TravelerFellas;
+﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Infrastructure;
 
-public interface ICambioService { }
+namespace TravelerFellas;
+
+public interface ICambioService 
+{
+    //Get - /api/from=VAR&to=VAR
+    public Task<IActionResult> GetCambioAsync();
+}
