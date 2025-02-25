@@ -1,8 +1,7 @@
 ﻿namespace TravelerFellas;
 
-public class Destino
+public class Destino : BaseEntity
 {
-    public int Id { get; set; }
     public string? Nome { get; set; }
     public string? Pais { get; set; }
     public decimal Latitude { get; set; }

@@ -1,6 +1,8 @@
 ﻿namespace TravelerFellas;
 
-public interface IDestinoHandler : IGenericRepositoryHandler<DestinoDTO>
+public interface IDestinoHandler
 {
-    public Task<PagedResponse<DestinoDTO>> GetDestinoTodosAsync(PagedRequest pagedResponse);
+    public Task<PagedResponse<IEnumerable<DestinoDTO>?>> GetDestinoTodosAsync(
+        PagedRequest pagedRequest
+    );
 }

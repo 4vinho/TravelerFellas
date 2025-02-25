@@ -1,8 +1,7 @@
 ﻿namespace TravelerFellas;
 
-public class Clima
+public class Clima : BaseEntity
 {
-    public int Id { get; set; }
     public int DestinoId { get; set; }
     public Destino? Destino { get; set; }
     public decimal TemperaturaAtual { get; set; }

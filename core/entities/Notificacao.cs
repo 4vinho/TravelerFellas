@@ -1,8 +1,7 @@
 ﻿namespace TravelerFellas;
 
-public class Notificacao
+public class Notificacao : BaseEntity
 {
-    public int Id { get; set; }
     public int UsuarioId { get; set; }
     public Usuario? Usuario { get; set; }
     public TipoNotificacao TipoNotificacao { get; set; }
