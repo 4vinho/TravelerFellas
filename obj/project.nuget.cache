@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+6eOO1P8w1A=",
+  "dgSpecHash": "qtwMTRvZLCQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\edunascimentoalvess\\Documents\\Projetos\\Pessoal\\TravelerFellas\\TravelerFellas.csproj",
+  "projectFilePath": "C:\\Users\\edunascimentoalvess\\Documents\\Projetos\\TravelerFellas\\TravelerFellas.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\edunascimentoalvess\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\edunascimentoalvess\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",

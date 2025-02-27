@@ -4929,11 +4929,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\edunascimentoalvess\\Documents\\Projetos\\Pessoal\\TravelerFellas\\TravelerFellas.csproj",
+      "projectUniqueName": "C:\\Users\\edunascimentoalvess\\Documents\\Projetos\\TravelerFellas\\TravelerFellas.csproj",
       "projectName": "TravelerFellas",
-      "projectPath": "C:\\Users\\edunascimentoalvess\\Documents\\Projetos\\Pessoal\\TravelerFellas\\TravelerFellas.csproj",
+      "projectPath": "C:\\Users\\edunascimentoalvess\\Documents\\Projetos\\TravelerFellas\\TravelerFellas.csproj",
       "packagesPath": "C:\\Users\\edunascimentoalvess\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\edunascimentoalvess\\Documents\\Projetos\\Pessoal\\TravelerFellas\\obj\\",
+      "outputPath": "C:\\Users\\edunascimentoalvess\\Documents\\Projetos\\TravelerFellas\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
